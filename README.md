@@ -1,7 +1,7 @@
 # matplotlib-challenge
 Module 5 Challenge for UofD Data Analysis bootcamp
 
-The file is in the directory labeled (Pymaceuticals).
+The file is pymaceuticals.ipynb and is located in the directory labeled (Pymaceuticals).
 
 I used the format provided by the (pymaceuticals_starter.ipynb) file.
 
